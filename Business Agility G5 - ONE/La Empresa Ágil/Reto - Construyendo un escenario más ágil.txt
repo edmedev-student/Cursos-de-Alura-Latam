@@ -1,0 +1,12 @@
+CONSTRUYENDO UN ESCENARIO MÁS ÁGIL:
+
+Ya debes tener mapeado, sea mentalmente o en un papel o documento electrónico, qué áreas y puntos de interacción hay entre las áreas de tu empresa. Si no es así, imagina que estas áreas trabajan como silos completamente separadas y con una fuerte barrera de integración entre diferentes áreas.
+
+Ahora rompamos estos silos. Diseña una estructura donde estas áreas se integren. Ya sea co-creando procesos nuevos o existentes o mediante equipos multidisciplinares. ¿Cómo se vería esta estructura en tu organización? ¿Cuáles crees que serían los beneficios? ¿Y los puntos negativos?
+
+Piensa también en cuáles serían las resistencias que sufriría este enfoque. ¿Serían muchas? ¿Pocas?
+
+
+RESPUESTA:
+Cada area de la tienda virtual trabaja por separado.
+Para romper los silos podria implementar una estructura en donde todas las areas trabajen en union, por ejemplo, que el area de atencion al cliente trabaje en union con el equipo de marketing y diseño y desarrollo web para lograr objetivos que sean de bienestar para todas las areas.

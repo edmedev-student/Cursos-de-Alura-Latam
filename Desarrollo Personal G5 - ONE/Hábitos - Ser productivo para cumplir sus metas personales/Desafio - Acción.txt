@@ -1,0 +1,14 @@
+Acción:
+
+Suponiendo que un objetivo está relacionado con algo que se espera lograr y las metas son las acciones que se deben tomar para lograr el objetivo, haz tu lista de objetivos (al menos 3) y de las respectivas metas para lograr esos objetivos.
+
+
+**Mis objetivos deseados son:**
+- Aprender a programar con JavaScript
+- Mejorar mi nivel en el idioma ingles
+- Conseguir mi primer empleo como Desarrollador Web junio
+
+**Mis metas para alcanzar mis objetivos son:**
+- Estudiar en las mañanas 3 horas la lógica de JavaScript y leer libros relacionados al lenguaje de programación de JavaScript por las noches.
+- Estudiar 2 horas de ingles en la tarde, usar la aplicación Doulingo para jugar y aprender ingles y ver películas y series en ingles.
+- Practicar los ejercicios en Visual Studio Code con las tecnologías de HTML, CSS y JS para aprender a crear aplicaciones web y crear mi portafolio de proyectos

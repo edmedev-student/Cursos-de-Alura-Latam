@@ -1,0 +1,15 @@
+Desafío: tu agenda semanal
+
+Aprovecha tu reflexión del ejercício anterior y detalla tu agenda semanal como en el ejemplo de Alice.
+
+**¿Cuántas horas vas a dedicar en la semana?**
+22 horas semanal
+
+**¿Cómo serán divididas por día y local?**
+- Videos: 8 horas semanal
+- Práctica individual: 8 horas semanal
+- Lectura: 4 horas
+- Evento o mentor: 2 horas semanal
+
+**¿Qué formatos y estilos, considerando tu perfil personal, vas a elegir para incluir en esta agenda?**
+Ver videoclases online, lectura de articulos y blogs, practicar y rosolver ejercicios.

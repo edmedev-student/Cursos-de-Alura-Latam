@@ -1,0 +1,27 @@
+<meta charset="UTF-8">
+
+<h1>PROGRAMA PARA VERIFICAR SI PUEDES CONDUCIR</h1>
+
+<script>
+    // Este programa, de acuerdo con la respuesta del usuario, debe mostrar el mensaje "Puedes conducir" o "No puedes conducir". Recuerda que puede conducir solo quien tiene 18 años o más y también quien tiene una licencia de conducir.
+    // ¡Altera el programa para que responda automáticamente!
+
+    function saltarLinea() {
+        document.write("<br>");
+    }
+
+    function imprimir(frase) {
+        document.write(frase);
+        saltarLinea();
+    }
+
+    var edad = parseInt(prompt("¿Cuál es tu edad?"));
+    var tieneLicencia = prompt("¿Tienes licencia? Responde S o N");
+
+    if (edad >= 18 && tieneLicencia == "S") {
+        imprimir("¡Genial, puedes conducir!");
+    } else {
+        imprimir("¡Lo siento, no puedes conducir!");
+    }
+
+</script>

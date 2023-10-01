@@ -1,0 +1,140 @@
+/* HEADER */
+/* Contenedor que contiene el titulo y el menú de navegación */
+.headerPrincipal .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Hace que el contenedor principal del header distribuya el espacio para que el titulo quede alineado a la izquierda y el menu de navegación a la derecha */
+}
+
+/* Menú de navegación */
+.headerPrincipal-nav {
+    display: flex;
+}
+
+
+/* MAIN */
+/* Sección de cursos */
+.contenidoPrincipal-cursos {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contenidoPrincipal-cursos-link {
+    display: flex;
+    width: 23%;
+}
+
+/* Sección de video de ventajas de cursos */
+.videoSobre .container {
+    display: flex;
+}
+
+/* Contenido izquierdo de ventajas de cursos */
+.videoSobre-video {
+    flex-grow: 2;
+    flex-shrink: 2;
+}
+
+/* Contenido derecho de ventajas de cursos */
+.videoSobre-sobre {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.videoSobre-sobre-list {
+    flex-grow: 2;
+}
+
+
+/* FOOTER */
+/* Sección del pie de página superior */
+.rodapePrincipal-navMap-list {
+    display: flex;
+    height: 260px;
+    flex-direction: column; /* Hace que el contenido se organice de manera vertical */
+    flex-wrap: wrap; /* Tiene como función que cuando llega al limite del tamaño de la altura se mueve el siguiente contenido a una nueva fila */
+}
+
+/* Sección del pie de página inferior */
+.rodapePrincipal-patrocinadores .container {
+    display: flex;
+    justify-content: space-between; /* Hace que la sección inferior del footer distribuya el espacio para que la lista de iconos quede alineado a la izquierda y el formulario a la derecha */
+}
+
+.rodapePrincipal-patrocinadores-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-around; /* Coloca un espacio alrededor de los elementos elementos de las listas (iconos de los patrocinadores) */
+    width: 70%;
+    margin-right: 5%;
+}
+
+.rodapePrincipal-contatoForm {
+    width: 25%;
+}
+
+.rodapePrincipal-contatoForm-fieldset {
+    display: flex;
+}
+
+
+/* RESPONSIVE */
+
+@media (max-width: 768px) {
+
+    /* Header */
+    .headerPrincipal .container {
+        flex-direction: column;
+        align-items: initial;
+        text-align: center;
+    }
+    
+    .headerPrincipal-nav {
+        flex-direction: column;
+    }
+
+    .headerPrincipal-nav-link-app {
+        order: -1;
+    }
+
+    /* Main */
+    /* Sección de cursos */
+    .contenidoPrincipal-cursos {
+        flex-direction: column;
+    }
+
+    .contenidoPrincipal-cursos-link {
+        width: 100%;
+    }
+
+    /* Sección de video de ventajas de cursos */
+    .videoSobre .container {
+        flex-direction: column;
+    }
+
+    /* Footer */
+    .rodapePrincipal-navMap-list {
+        height: auto;
+        flex-wrap: nowrap;
+    }
+
+    .rodapePrincipal-patrocinadores .container {
+        flex-direction: column;
+    }
+
+    .rodapePrincipal-contatoForm {
+        width: 100%;
+    }
+
+    .rodapePrincipal-patrocinadores-list {
+        align-items: center;
+        width: 100%;
+        margin: 0;
+    }
+
+    .rodapePrincipal-contatoForm-fieldset {
+        justify-content: center;
+    }
+}
+

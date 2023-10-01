@@ -1,0 +1,4 @@
+Comando para ir al curso:
+
+cd CURSOS-ONLINE/Alura-Cursos/React/"Primeros pasos en React"/org
+

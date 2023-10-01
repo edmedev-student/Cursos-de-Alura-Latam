@@ -1,0 +1,27 @@
+Desafío: tus metas en formato SMART
+
+Utilizando tus respuestas del ejercicio anterior, ¿cómo puedes escribir tus metas en formato SMART?
+
+S
+M
+A
+R
+T
+
+
+RESPUESTA:
+
+**S: ESPECÍFICO**
+Lograr crear funciones y programas con el lenguaje de programación de JavaScript
+
+**M: MEDIBLE**
+Si, que funcionen los arreglos y funciones
+
+**A: ALCANZABLE**
+Si
+
+**R: RELEVANTE**
+Fundamental para llegar a ser programador
+
+**T: TEMPORAL**
+6 meses

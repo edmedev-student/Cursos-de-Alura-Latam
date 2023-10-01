@@ -1,0 +1,21 @@
+Desafío: tus metas de aprendizaje
+
+Ya entendimos porqué es tan importante tener una meta para el proceso de aprendizaje ser efectivo.
+
+Llegó el momento de escribir tus metas de aprendizaje.
+
+¿Por qué lo quiero aprender?
+¿Dónde lo voy a utilizar?
+¿Cuándo quiero estar listo?
+
+
+RESPUESTA:
+
+**¿Por qué lo quiero aprender?**
+Para aprender a programar con el lenguaje de programación JavaScript
+
+**¿Dónde lo voy a utilizar?**
+Para aplicar a un nuevo cargo como Frontend Developer
+
+**¿Cuándo quiero estar listo?**
+En 6 meses

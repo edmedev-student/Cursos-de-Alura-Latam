@@ -1,0 +1,49 @@
+<meta charset="UTF-8">
+
+<h1>INICIO DE SESIÓN</h1>
+
+<script>
+    var inicioDeSesionRegistrado = "eduar";
+    var contrasenhaRegistrada = "eduar123";
+    var inicioDeSesionIngresado = prompt("Ingrese su usuario");
+    var contrasenhaIngresada = prompt("Ingrese su contraseña");
+    var intentos;
+    var contador;
+
+    function saltarLinea() {
+        document.write("<br>");
+        document.write("<br>");
+    }
+
+    function imprimir(frase) {
+        document.write(frase);
+        saltarLinea();
+    }
+
+    function validarInicioSesion() {
+        intentos = 3;
+        contador =1;
+
+        while (contador <= intentos) {
+            if(inicioDeSesionRegistrado == inicioDeSesionIngresado && contrasenhaRegistrada == contrasenhaIngresada) {
+                alert("Bienvenido al sistema " + inicioDeSesionIngresado);
+                break;
+            } else {
+                alert("inicio de sesión inválido. Favor intente de nuevo");
+            }
+
+            contador++;
+        }
+    }
+
+    function mostrarSesion() {
+        if( inicioDeSesionRegistrado == inicioDeSesionIngresado && contrasenhaRegistrada == contrasenhaIngresada ) {
+            imprimir("Bienvenido al sistema " + inicioDeSesionIngresado);
+        } else {
+            imprimir("inicio de sesión inválido. Favor intente de nuevo");
+        }
+    }
+
+    validarInicioSesion();
+    mostrarSesion();
+</script>

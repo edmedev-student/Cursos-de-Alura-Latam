@@ -1,0 +1,4 @@
+Comando para ir al curso:
+
+cd CURSOS-ONLINE/Alura-Cursos/React/"Utilizando Styled Components"/SmartBank
+

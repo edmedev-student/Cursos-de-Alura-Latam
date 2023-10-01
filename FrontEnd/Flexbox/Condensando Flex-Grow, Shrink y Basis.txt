@@ -1,0 +1,9 @@
+Condensando Flex-Grow, Shrink y Basis:
+
+
+¿Cuál es la propiedad que utilizamos para condensar las propiedades: flex-grow, flex-shrink y flex-basis?
+
+La propiedad es la propiedad flex.
+
+flex: 1 1 300px;
+El orden de los valores es: flex-grow, flex-shrink, flex-basis.

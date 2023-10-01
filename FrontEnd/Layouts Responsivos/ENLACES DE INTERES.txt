@@ -1,0 +1,8 @@
+ENLACES DE INTERES:
+
+"PageSpeed Insights" herramienta que analiza el contenido de una página web y te sugiere qué hacer para mejorar la velocidad de esa una página:
+https://pagespeed.web.dev/
+
+
+Herramienta que muestra la apariencia del sitio web en un dispositivo movil:
+http://www.responsinator.com/

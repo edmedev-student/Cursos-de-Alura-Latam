@@ -1,0 +1,10 @@
+RECURSOS DE INTERES:
+
+
+Guia para flexbox sobre que propiedades de CSS usar en "containers" y en "items":
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+
+Juegos para practicar flexbox:
+https://flexboxfroggy.com/#es/
+http://www.flexboxdefense.com/

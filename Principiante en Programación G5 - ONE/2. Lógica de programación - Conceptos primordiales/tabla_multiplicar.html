@@ -1,0 +1,29 @@
+<meta charset="UTF-8">
+
+<h1>PROGRAMA - TABLA DE MULTIPLICAR</h1>
+
+<script>
+    function saltarLinea() {
+        document.write("<br>");
+        document.write("<br>");
+    }
+
+    function imprimir(frase) {
+        document.write(frase);
+        saltarLinea();
+    }
+
+    var multiplicador = 1;
+    var numMultiplicar = parseInt(prompt("Ingresa el numero de la tabla de multiplicar"));
+
+    document.write("<h3>" + "Está es la tabla del " + numMultiplicar + "</h3>");
+
+    while (multiplicador <=10) {
+        imprimir(numMultiplicar + " X " + multiplicador + " = " + (numMultiplicar * multiplicador));
+        multiplicador++
+    }
+
+    //for (multiplicador = 1; multiplicador <= 10; multiplicador++) {
+    //    imprimir(numMultiplicar * multiplicador);
+    //}
+</script>

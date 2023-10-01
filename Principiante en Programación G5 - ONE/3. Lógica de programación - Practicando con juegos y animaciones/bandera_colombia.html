@@ -1,0 +1,15 @@
+<canvas width="600" height="400"></canvas>
+
+<script>
+    var pantalla = document.querySelector("canvas");
+    var pincel = pantalla.getContext("2d");
+    
+    function rectanguloBandera(x,color) {
+        pincel.fillStyle = color;
+        pincel.fillRect (0,x,600,130);
+    }
+
+    rectanguloBandera(0,"yellow");
+    rectanguloBandera(130,"blue");
+    rectanguloBandera(260,"red");
+</script>

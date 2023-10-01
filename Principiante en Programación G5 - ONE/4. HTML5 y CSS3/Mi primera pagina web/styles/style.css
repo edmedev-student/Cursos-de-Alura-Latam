@@ -1,0 +1,126 @@
+/* Estilos del body */
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+/* HEADER */
+header {
+    background-color: #BBB;
+    width: 100%;
+}
+
+.header-container {
+    min-width: 320px;
+    max-width: 940px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.logo-header {
+    display: inline-block;
+}
+
+.nav-header {
+    display: inline-block;
+}
+
+.nav-header li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+.nav-header a {
+    text-transform: uppercase;
+    color: #000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.nav-header a:hover {
+    color: #c78c19;
+    text-decoration: underline;
+}
+
+/* Media Queries: Celulares */
+@media screen and (max-width: 480px) {
+    .header-container {
+        padding: 20px;
+    }
+    .logo-header {
+        width: 100%;
+        text-align: center;
+    }
+    .nav-header {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+/* Media Queries: Celulares en posición verticales */
+@media screen and (min-width: 481px) and (max-width: 767px) {
+    .header-container {
+        padding: 5%;
+    }
+    .logo-header {
+        width: 100%;
+        text-align: center;
+    }
+    .nav-header {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+/* Media Queries: Tablets */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .header-container {
+        padding: 5%;
+    }
+    .logo-header {
+        width: 50%;
+        text-align: left;
+    }
+    .nav-header {
+        width: 50%;
+        margin: auto 0;
+        text-align: center;
+    }
+}
+
+/* Media Queries: PC y Laptop */
+@media screen and (min-width: 1024px) {
+    .logo-header {
+        width: 50%;
+        text-align: left;
+    }
+    .nav-header {
+        width: 50%;
+        margin: auto 0;
+        text-align: right;
+    }
+}
+
+
+/* FOOTER */
+footer {
+    text-align: center;
+    background: url(../src/imagenes/bg.jpg);
+    width: auto;
+    padding: 40px;
+}
+
+.footer-container {
+    min-width: 240px;
+    max-width: 940px;
+    margin: 0 auto;
+}
+
+.copyright {
+    color: #FFF;
+    font-size: 13px;
+    margin: 20px;
+}
+

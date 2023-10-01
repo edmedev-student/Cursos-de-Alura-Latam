@@ -1,0 +1,27 @@
+<meta charset="UTF-8">
+
+<h1>Diferemcia de edades con mi hermano</h1>
+
+<script>
+    function saltarLinea() {
+        document.write("<br>");
+        document.write("<br>");
+    }
+
+    function imprimir(frase) {
+        document.write(frase);
+        saltarLinea();
+    }
+
+    imprimir("Yo tengo 30 años.");
+    imprimir("Mi hermano tiene 16 años.");
+
+    // Este codigo calcula las edad mia con la de mi hermano
+
+    var edadEduardo = 30;
+    var edadOsvaldo = 16;
+    var diferenciaEdad = edadEduardo - edadOsvaldo;
+
+    imprimir("Nuestra diferencia de edad es " + diferenciaEdad + " años.");
+
+</script>

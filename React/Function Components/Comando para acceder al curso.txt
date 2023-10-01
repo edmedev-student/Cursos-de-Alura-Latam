@@ -1,0 +1,4 @@
+Comando para acceder al curso:
+
+cd CURSOS-ONLINE/Alura-Cursos/React/"Function Components"/proyecto
+

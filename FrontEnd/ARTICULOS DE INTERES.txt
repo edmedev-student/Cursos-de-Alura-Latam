@@ -1,0 +1,10 @@
+ARTICULOS DE INTERES:
+
+https://www.aluracursos.com/blog/flexbox-css-guia-completo-elementos-y-ejemplos
+
+https://www.aluracursos.com/blog/creacion-de-componentes-css-con-el-estandar-bem
+
+
+Servidores para publicar un proyecto web:
+https://vercel.com/
+https://github.com/

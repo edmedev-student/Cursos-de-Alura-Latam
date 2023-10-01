@@ -1,0 +1,54 @@
+COMANDOS DE REACT-JS:
+
+Crear el proyecto:
+npx create-react-app nombreProyecto
+
+Inicializar el proyecto:
+npm start
+
+Subir el proyecto a producción:
+npm run build
+npm install -g serve
+serve -s build
+
+Para crear la carpeta node_modules cuando ya tenemos el proyecto de React y nos falta unicamente esa carpeta:
+npm i
+
+Instalar react router:
+npm install react-router-dom
+
+Verificar react router esta instalado:
+npm list react-router-dom
+
+
+__________________________________
+
+COMANDOS DE BIBLIOTECAS DE REACT:
+
+Biblioteca para convertir color hexadecimal a RGBA:
+npm i hex-to-rgba
+
+Biblioteca para generar ID:
+npm i uuid
+
+Biblioteca de React de iconos:
+npm install react-icons --save
+
+Instalar Styled Componets:
+npm install styled-components
+
+Libreria de Material UI:
+npm install @mui/material @emotion/react @emotion/styled
+
+
+__________________________________
+
+COMANDOS DE JSON SERVER:
+
+Instalar Json Server:
+npm i -g json-server
+
+Crear una ruta para el db.json:
+json-server --watch .\db.json --port=5000
+
+

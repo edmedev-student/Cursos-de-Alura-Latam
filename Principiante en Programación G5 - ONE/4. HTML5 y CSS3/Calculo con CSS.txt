@@ -1,0 +1,6 @@
+CALCULO CON CSS:
+
+¿Cómo usar medidas proporcionales para dejar un elemento 100% de ancho con el equivalente a un tercio del elemento padre, menos 10px?
+
+
+width: calc( (100% / 3) - 10px );

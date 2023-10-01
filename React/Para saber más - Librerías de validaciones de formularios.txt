@@ -1,0 +1,11 @@
+Para saber más: Librerías de validaciones de formularios.
+
+Te comparto los enlaces de las dos librerías que hablamos en el anterior video que nos ayudan a poder tener validaciones más complejas.
+
+
+Yup:
+https://www.npmjs.com/package/yup
+
+React Hook Form:
+https://react-hook-form.com/
+

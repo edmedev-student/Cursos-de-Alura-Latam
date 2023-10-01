@@ -1,0 +1,28 @@
+Desafío: tu Ikigai
+
+
+¿Cuál es tu Ikigai? Completa las frases abajo y empieza a entender cuál puede ser tu Ikigai.
+
+LO QUE AMAS:
+1. Leer
+2. Jugar videojuegos
+3. Aprender cosas nuevas
+
+LO QUE HACES BIEN:
+1. Redactar contenido
+2. Diseñar piezas graficas
+3. Escuchar con atención
+
+LO QUE PUEDE SER PAGO PARA HACER:
+1. Crear páginas web
+2. Diseñar piezas graficas
+3. Redactar contenido de blog
+
+LO QUE EL MUNDO NECESITA:
+1. Diseñadores web
+2. Desarrolladores web
+3. Data science
+
+
+**Ahora haz un cruce entre estas habilidades listadas. ¿Cómo podrías juntarlas y definir un posible Ikigai?**
+Diría que podría dedicarme a diseñar páginas web con WordPress y Elementor y aprender tecnologías demandadas como son Java y JavaScript para desempeñarme en un futuro.

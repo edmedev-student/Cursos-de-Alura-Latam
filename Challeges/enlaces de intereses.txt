@@ -1,0 +1,12 @@
+Enlaces de interes:
+
+Herramientas para descargar iconos:
+https://fontawesome.com/
+https://www.flaticon.com/
+
+Convertidor png a svg:
+https://products.aspose.app/imaging/es/conversion/png-to-svg
+
+Convertir px a rem:
+https://nekocalc.com/es/px-a-rem-conversor
+

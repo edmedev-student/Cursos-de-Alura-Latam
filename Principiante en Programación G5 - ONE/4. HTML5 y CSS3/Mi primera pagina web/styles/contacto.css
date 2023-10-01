@@ -1,0 +1,119 @@
+main {
+    min-width: 320px;
+    max-width: 940px;
+    margin: 0 auto;
+}
+
+form {
+    margin: 40px 0;
+}
+
+form label, form legend {
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+.input-padron {
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+}
+
+.checkbox {
+    margin: 20px 0;
+}
+
+.enviar {
+    padding: 14px 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFF;
+    background: orange;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+}
+
+.enviar:hover {
+    background: darkorange;
+    transform: scale(1.2);
+}
+
+table {
+    margin: 40px 40px;
+}
+
+thead {
+    background: #555555;
+    color: #FFF;
+    font-weight: bold;
+}
+
+td, th {
+    border: 1px solid #000000;
+    padding: 8px 15px;
+}
+
+
+/* Media Queries: Celulares */
+@media screen and (max-width: 480px) {
+    .formulario {
+        padding: 3em 2.2em;
+        min-width: 280px;
+        max-width: 440px;
+        margin: 0 auto;
+    }
+    .input-padron {
+        width: 80%;
+    }
+    .enviar {
+        width: 75%;
+    }
+}
+
+/* Media Queries: Celulares en posición verticales */
+@media screen and (min-width: 481px) and (max-width: 767px) {
+    .formulario {
+        width: 80%;
+        margin: 0 auto;
+    }
+    .input-padron {
+        width: 80%;
+    }
+    .enviar {
+        width: 75%;
+    }
+}
+
+/* Media Queries: Tablets */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .formulario {
+        padding: 3em 0;
+        width: 680px;
+        margin: 0 auto;
+    }
+    .input-padron {
+        width: 60%;
+    }
+    .enviar {
+        width: 50%;
+    }
+}
+
+/* Media Queries: PC y Laptop */
+@media screen and (min-width: 1024px) {
+    .formulario {
+        padding: 3em 0;
+        width: 940px;
+        margin: 0 auto;
+    }
+    .input-padron {
+        width: 50%;
+    }
+    .enviar {
+        width: 40%;
+    }
+}
+

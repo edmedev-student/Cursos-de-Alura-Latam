@@ -1,0 +1,5 @@
+Algunos atajos útiles que usaremos a lo largo del curso:
+
+Windows: Abrir un archivo del ordenador en Google Chrome = Ctrl + O + Seleccionar un archivo. Abrir las herramientas para desarrolladores (Dev Tools) = Ctrl + SHIFT + I.
+
+Mac: Abrir un archivo del ordenador en Google Chrome = ⌘ + O + Seleccionar un archivo. Abrir las herramientas para desarrolladores (Dev Tools) = ⌘ + Opción + I.

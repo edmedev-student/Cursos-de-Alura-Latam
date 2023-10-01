@@ -1,0 +1,3 @@
+Enlace de interes para git log:
+
+https://devhints.io/git-log

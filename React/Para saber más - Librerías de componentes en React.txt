@@ -1,0 +1,9 @@
+Para saber más: Librerías de componentes en React
+
+Hablamos sobre otras librerías de componentes UI que podemos utilizar, estas son solo algunas de las más famosas pero existen infinidad de librerías que pueden ayudarnos a desarrollar más rápidamente nuestros proyectos. Te comparto los enlaces de los que enseñamos en la clase anterior.
+
+https://mui.com/
+https://ant.design/
+https://chakra-ui.com/
+https://react-bootstrap.github.io/
+

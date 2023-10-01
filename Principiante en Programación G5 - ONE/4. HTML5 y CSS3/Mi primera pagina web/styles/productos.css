@@ -1,0 +1,84 @@
+main {
+    width: 100%;
+    background: #fff;
+}
+
+.productos {
+    min-width: 320px;
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.lista-productos {
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid #000;
+    border-radius: 10px;
+}
+
+.lista-productos:hover {
+    border-color: #c78c19;
+}
+
+.lista-productos:active {
+    border-color: #088c19;
+}
+
+.productos h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.lista-productos:hover h2 {
+    font-size: 34px;
+}
+
+.producto-descripcion {
+    font-size: 18px;
+}
+
+.producto-precio {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+
+/* Media Queries: Celulares */
+@media screen and (max-width: 480px) {
+    .lista-productos {
+        width: 90%;
+        margin: 10px auto;
+    }
+}
+
+/* Media Queries: Celulares en posición verticales */
+@media screen and (min-width: 481px) and (max-width: 767px) {
+    .lista-productos {
+        width: 40%;
+        margin: 10px auto;
+    }
+}
+
+/* Media Queries: Tablets */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .lista-productos {
+        width: 40%;
+        margin: 10px auto;
+    }
+}
+
+/* Media Queries: PC y Laptop */
+@media screen and (min-width: 1024px) {
+    .lista-productos {
+        width: 30%;
+        margin: auto;
+    }
+}
+
